@@ -101,8 +101,8 @@ This modular approach ensures peripherals communicate reliably without overwhelm
 ### 3️⃣ Implementation
 **Description:** Performs placement, routing, and timing optimization for FPGA deployment.  
 ![Implementation Diagram](Vivado/imp1.png)
-![Implementation Diagram](Vivado/Screenshot 2025-10-17 160230.png)
-![Implementation Diagram](Vivado/imp1.png)
+![Implementation Diagram](Vivado/imp2.png)
+![Implementation Diagram](Vivado/power.png)
 
 
 ---
@@ -127,14 +127,11 @@ This modular approach ensures peripherals communicate reliably without overwhelm
 ## 📊 Waveform Outputs
 
 ### Full Waveforms
-- ![Write Transaction](images/write_waveform_full.png)  
-- ![Read Transaction](images/read_waveform_full.png)  
-- ![Error Case](images/error_waveform_full.png)  
-
-### Snippets
-- ![Waveform Snippet 1](images/waveform_snippet1.png)  
-- ![Waveform Snippet 2](images/waveform_snippet2.png)  
-- ![Waveform Snippet 3](images/waveform_snippet3.png)
+- ![Full Waveform](Waveform/fullwave.png)
+- ![Reset](Waveform/Reset.png)
+- ![Write Transaction](Waveform/write.png)  
+- ![Read Transaction](Waveform/Read.png)  
+- ![Error Case](Waveform/error2.png)
 
 ---
 
@@ -167,9 +164,6 @@ This modular approach ensures peripherals communicate reliably without overwhelm
 
 ---
 
-## 🕋 Quote
-
-> "Indeed, Allah commands you to render trusts to whom they are due and when you judge between people to judge with justice."  
-> — Qur’an, Surah An-Nisa [4:58]
+# إِنَّ اللَّهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ ۚ يَا أَيُّهَا الَّذِينَ آمَنُوا صَلُّوا عَلَيْهِ وَسَلِّمُوا تَسْلِيمًا
 
 
