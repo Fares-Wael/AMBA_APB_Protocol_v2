@@ -84,21 +84,23 @@ This modular approach ensures peripherals communicate reliably without overwhelm
 ## 🗂️ Block Diagram
 
 ### Visual Diagram
-![APB Block Diagram](images/apb_block_diagram.png)  
+![APB Block Diagram](apb_block_diagram.png)  
 
 ## 🛠️ Design Flow
 
 ### 1️⃣ Elaboration
 **Description:** Checks design hierarchy and module connectivity.  
-![Elaboration Diagram](images/elaboration_design.png)  
+![Elaboration Diagram](Vivado/elaboration_design.png)  
 
 ### 2️⃣ Synthesis
 **Description:** Converts RTL into a gate-level representation, showing logic utilization and timing.  
-![Synthesis Diagram](images/synthesis_design.png)  
+![Synthesis Diagram](Vivado/synthesis_design.png)
+![Synthesis Diagram](Vivado/syn2.png)
+![Synthesis Diagram](Vivado/syn3.png)
 
 ### 3️⃣ Implementation
 **Description:** Performs placement, routing, and timing optimization for FPGA deployment.  
-![Implementation Diagram](images/implementation_design.png)  
+![Implementation Diagram](Vivado/imp1.png)  
 
 ---
 
