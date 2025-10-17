@@ -100,7 +100,10 @@ This modular approach ensures peripherals communicate reliably without overwhelm
 
 ### 3️⃣ Implementation
 **Description:** Performs placement, routing, and timing optimization for FPGA deployment.  
-![Implementation Diagram](Vivado/imp1.png)  
+![Implementation Diagram](Vivado/imp1.png)
+![Implementation Diagram](Vivado/Screenshot 2025-10-17 160230.png)
+![Implementation Diagram](Vivado/imp1.png)
+
 
 ---
 
