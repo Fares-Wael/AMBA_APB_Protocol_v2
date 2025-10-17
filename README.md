@@ -1,6 +1,6 @@
 # 🧩 AMBA APB Protocol v2
 
-header_banner: "APB.png"
+header_banner: "images/APB.png"
 
 project_info:
   title: "Advanced Microcontroller Bus Architecture – APB Version 2"
